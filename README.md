@@ -1,2 +1,2 @@
 # Config
-Holds my .vimrc and .bashrc file
+Holds my .vimrc, .bashrc, and .bash_profile files
